@@ -1,0 +1,66 @@
+@media screen {
+    
+.tamanho {
+    border-bottom: display;
+    padding: 15px 10px 15px 30px;
+}
+
+.Verde {
+border: none;
+padding: 15px 10px 15px 30px;
+background-color: rgb(3, 247, 3);
+}
+
+.Vermelho {
+border: none;
+padding: 15px 10px 15px 30px;
+background-color: red;
+}
+
+p {
+    font-size: 1.5em;
+    text-align: justify;
+    padding: 0.5em 1.5em 1.5em 1.5em;
+    
+}
+h2 {
+    font-size: 1.5em;
+    text-align: center;
+    padding: 0.5em;
+}
+
+* {
+
+    margin:0;
+    padding: 0;
+    box-sizing: 0;
+
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(./Imagens/fundo-de-tecnologia-gradiente-geometrico-azul_52683-78527.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+div {
+    text-align: center;
+}
+buttom {
+    text-align: left;
+}
+
+img {
+ width:700px;
+}
+
+h3 {
+    color: azure;
+    font-size: 1em;
+    text-align: center;
+}
+
+}
